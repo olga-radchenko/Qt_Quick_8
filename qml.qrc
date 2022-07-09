@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LoginForm.qml</file>
+        <file>LoginListModel.qml</file>
+        <file>MainWindow.qml</file>
+        <file>PswRecoverForm.qml</file>
+        <file>RegistrationForm.qml</file>
+        <file>WelcomeForm.qml</file>
+        <file>LogoPic/logo.png</file>
+        <file>mvboli.ttf</file>
+    </qresource>
+</RCC>
